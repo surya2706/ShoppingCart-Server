@@ -1,0 +1,184 @@
+{
+  "allProducts": [
+    {
+      "id": "5cce8178-a621-49f6-929a-30afad504ded",
+      "name": "Refined Concrete Chair",
+      "price": "379.00",
+      "rating": 4,
+      "image": "https://loremflickr.com/640/480/animals",
+      "inStock": 5,
+      "fastDelivery": false
+    },
+    {
+      "id": "f277fd47-078f-4b9b-8a49-e0255b188958",
+      "name": "Tasty Metal Bike",
+      "price": "458.00",
+      "rating": 2,
+      "image": "https://loremflickr.com/640/480/cats",
+      "inStock": 7,
+      "fastDelivery": false
+    },
+    {
+      "id": "65455283-69e5-4658-b00e-c623bdc98dad",
+      "name": "Incredible Plastic Bike",
+      "price": "22.00",
+      "rating": 3,
+      "image": "https://loremflickr.com/640/480/business",
+      "inStock": 0,
+      "fastDelivery": true
+    },
+    {
+      "id": "7acc45df-7d44-43f1-91fc-0426cb00e4c2",
+      "name": "Rustic Wooden Chips",
+      "price": "390.00",
+      "rating": 3,
+      "image": "https://loremflickr.com/640/480/transport",
+      "inStock": 7,
+      "fastDelivery": true
+    },
+    {
+      "id": "dd2ea85c-e888-4e84-8dc6-265c3ac026d1",
+      "name": "Ergonomic Fresh Ball",
+      "price": "933.00",
+      "rating": 4,
+      "image": "https://loremflickr.com/640/480/city",
+      "inStock": 3,
+      "fastDelivery": false
+    },
+    {
+      "id": "3e3fb2cf-6802-4e91-bab9-1b29fbefc3f4",
+      "name": "Modern Soft Soap",
+      "price": "704.00",
+      "rating": 3,
+      "image": "https://loremflickr.com/640/480/fashion",
+      "inStock": 0,
+      "fastDelivery": true
+    },
+    {
+      "id": "6023f050-6257-435b-9ce9-96a198b616a4",
+      "name": "Handcrafted Frozen Shoes",
+      "price": "984.00",
+      "rating": 4,
+      "image": "https://loremflickr.com/640/480/people",
+      "inStock": 0,
+      "fastDelivery": true
+    },
+    {
+      "id": "89579573-14c5-4db8-8181-852dd7bb3203",
+      "name": "Sleek Granite Bacon",
+      "price": "522.00",
+      "rating": 1,
+      "image": "https://loremflickr.com/640/480/food",
+      "inStock": 3,
+      "fastDelivery": true
+    },
+    {
+      "id": "13ee5cae-8546-4c1a-be05-f6e6b1f95f47",
+      "name": "Rustic Fresh Cheese",
+      "price": "149.00",
+      "rating": 3,
+      "image": "https://loremflickr.com/640/480/nightlife",
+      "inStock": 5,
+      "fastDelivery": false
+    },
+    {
+      "id": "43d76228-20b7-4c09-916f-957b6b4eb035",
+      "name": "Ergonomic Rubber Hat",
+      "price": "747.00",
+      "rating": 3,
+      "image": "https://loremflickr.com/640/480/people",
+      "inStock": 0,
+      "fastDelivery": false
+    },
+    {
+      "id": "56405a95-b4e6-4eaa-937e-cc055ca3c107",
+      "name": "Bespoke Cotton Shoes",
+      "price": "652.00",
+      "rating": 2,
+      "image": "https://loremflickr.com/640/480/people",
+      "inStock": 6,
+      "fastDelivery": true
+    },
+    {
+      "id": "cbd3f963-81b4-4bdf-a04d-3e2c735dd43f",
+      "name": "Awesome Wooden Bacon",
+      "price": "629.00",
+      "rating": 1,
+      "image": "https://loremflickr.com/640/480/fashion",
+      "inStock": 6,
+      "fastDelivery": false
+    },
+    {
+      "id": "330c31e3-2251-46f7-8d46-f4521fb50c08",
+      "name": "Tasty Metal Tuna",
+      "price": "70.00",
+      "rating": 5,
+      "image": "https://loremflickr.com/640/480/people",
+      "inStock": 0,
+      "fastDelivery": false
+    },
+    {
+      "id": "e4fc9a11-cb84-4fdb-8a3e-e88d110c5621",
+      "name": "Practical Concrete Bacon",
+      "price": "636.00",
+      "rating": 2,
+      "image": "https://loremflickr.com/640/480/sports",
+      "inStock": 6,
+      "fastDelivery": true
+    },
+    {
+      "id": "bddba9fa-6c72-4ea3-a042-5c03a9c7a01b",
+      "name": "Ergonomic Concrete Soap",
+      "price": "60.00",
+      "rating": 4,
+      "image": "https://loremflickr.com/640/480/food",
+      "inStock": 5,
+      "fastDelivery": true
+    },
+    {
+      "id": "ff11e594-999b-4143-9cbb-aa47ebab945d",
+      "name": "Luxurious Plastic Keyboard",
+      "price": "439.00",
+      "rating": 4,
+      "image": "https://loremflickr.com/640/480/transport",
+      "inStock": 7,
+      "fastDelivery": true
+    },
+    {
+      "id": "fe6899f3-5f89-49cc-a3a3-de28174a9483",
+      "name": "Handmade Bronze Computer",
+      "price": "846.00",
+      "rating": 1,
+      "image": "https://loremflickr.com/640/480/city",
+      "inStock": 6,
+      "fastDelivery": true
+    },
+    {
+      "id": "af7472ca-644c-4f2c-b79b-e0a8f29e4ca4",
+      "name": "Sleek Rubber Table",
+      "price": "887.00",
+      "rating": 2,
+      "image": "https://loremflickr.com/640/480/cats",
+      "inStock": 5,
+      "fastDelivery": false
+    },
+    {
+      "id": "4e448dc4-0b3f-4c3c-ba27-15d195a6c521",
+      "name": "Sleek Rubber Cheese",
+      "price": "248.00",
+      "rating": 3,
+      "image": "https://loremflickr.com/640/480/transport",
+      "inStock": 0,
+      "fastDelivery": false
+    },
+    {
+      "id": "062da5c6-60a4-47af-9d74-0db85cabb97a",
+      "name": "Unbranded Wooden Bacon",
+      "price": "710.00",
+      "rating": 1,
+      "image": "https://loremflickr.com/640/480/people",
+      "inStock": 7,
+      "fastDelivery": false
+    }
+  ]
+}
